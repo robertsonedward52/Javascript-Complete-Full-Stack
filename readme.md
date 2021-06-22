@@ -29,15 +29,7 @@ Authentication (both stateful with sessions and stateless with JSON Web Tokens)
 
 ... and much more!
 
-I encourage you to watch the freely available first lesson titled "Where Do We Begin?" to get a better feel for the course.
-
-This course may be brand new, but this isn’t my first time teaching. I’ve led training sessions for Fortune 500 companies and I’ve already helped over 65,000 people on Udemy and received the following feedback:
-
-"Brad definitely has some of the best techniques to embed the lesson into your mind… hands down these are the best tutorials I have had the opportunity to view."
-
 "Presentation is concise without being tedious… you honestly feel that you have a thorough understanding of the subject."
-
-"…[Brad] explained the process. Not memorize this or that, he explained the process. If you're looking to take a course to understand the foundations of creating websites, look no further."
 
 Become highly valuable and relevant to the companies that are hiring JavaScript developers; in one convenient place alongside one instructor. If you're ready to begin coding your own applications from the ground up - I'll see you on the inside!
 
