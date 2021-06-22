@@ -1,3 +1,6 @@
+**** About this course
+Understand the JavaScript language itself, Node.js, MongoDB, The Web Browser and More To Create Meaningful Applications****
+
 Learn the incredibly popular and in demand JavaScript language. This course makes no assumptions of prior computer programming experience. We begin with the very basics and slowly but surely work our way up to writing JavaScript code to power every aspect of an application.
 
 There are countless JavaScript courses in the world; here's what makes this one unique:
